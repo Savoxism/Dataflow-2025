@@ -1,0 +1,8 @@
+C thấy ok r e, do vĩ mô là theo năm nên khi xét tương quan e cx chỉnh các data ck theo feature năm nhé -> C nghĩ e thử check ko có vĩ mô thì phương án của e hoạt động ntn trc rồi add thêm vĩ mô sau để so sánh
+
+Phần này em có thể làm độc lập, xét bảng correlation feature mã ck theo năm để lấy feature quan trọng, xong em đẩy feature đó vào ghép với data theo tháng hoặc ngày để thêm dữ liệu cho model -> Nên e xem đc thêm feature nào cứ thử xét correlation trc xem tương quan cao ko rồi bổ sung vào cải thiện model
+
+Yếu tố cơ bản (fundamental): P/E, P/B, ROE,...
+Thông tin vĩ mô: VN-Index, CPI, lãi suất, GDP,...
+
+
