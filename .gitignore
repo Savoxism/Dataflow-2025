@@ -1,3 +1,7 @@
+# project wide
+stage2_data_150
+stage2_data_120
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
